@@ -2,8 +2,8 @@
 
 int main(){
     char estadoA[10];
-    char codigo_carta1[13], codigo_carta2[5];
     char estadoB[10]; 
+    char codigo_carta1[10], codigo_carta2[10];
     char cidade1[10], cidade2[10];
     int população1, população2;
     float area1, area2;
@@ -63,5 +63,6 @@ int main(){
    
  
 return 0;
+
 
 }
